@@ -327,6 +327,57 @@ Class - 1
         -> What Should Happen, Throughout Its Life 
 
 
+Class - 2
+==========
+
+    -> Hardware Models 
+
+        -> Hardware Model In Service Now Represents A Specific Hardware Product,
+        It Stores Information That Is Common To Hardware Assets Created From That Model 
+
+        -> A Hardware Asset Represents An Individual Physical Item 
+        Belonging To That Specific Model. 
+
+        -> For An Hardware Model, The Common Information Can Be 
+
+            -> Manufacturer 
+
+            -> Model Number 
+
+            -> Description 
+
+            -> Price 
+
+            -> etc 
+
+        -> NOTE: Relationship Between Hardware Model and Hardware Assets is 
+        One To Many Relationships, Means You Can Have Multiple Hardware Assets 
+        For Any Given Hardware Model 
+
+
+            Hardware Model is HP-Z9 Workstation 
+
+                Manufacturer - HP 
+                Model Number - Z9 
+                Description - Entry Level HP Workstation 
+                Price - ₹35000 
+
+        HW - Asset - 1                        HW - Asset - 2  
+            Asset Tag - HP-ACC-001                 Asset Tag - HP-ACC-002
+            Serial Number - 39038339               Serial Number - 2539072
+            Assigned To User - John                 Assigned To User - Mike 
+
+
+
+    -> Hardware Assets 
+
+        -> Any Physical Thing Like Computer, Mobile Phone, Printer etc 
+        are Hardware Assets. 
+
+        -> To Create An Hardware Asset, Hardware Model Is Must 
+
+        
+
 
 
 
