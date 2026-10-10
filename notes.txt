@@ -377,7 +377,106 @@ Class - 2
         -> To Create An Hardware Asset, Hardware Model Is Must 
 
         
+Class - 3
+==========
 
+    -> Like We Have Hardware Models and Hardware Assets, 
+    We Have Consumable Models & Consumable Assets.
+
+    -> Like Assets, We Use Terms Consumables 
+
+    -> Consumables are the assets that are not required to be tracked When In Use,
+    due to their low value and ease of Replacement.
+
+    -> Consumables are tracked By Quantity Level, While they are in Stock 
+    and No Longer Tracked When They Are Deployed To Users. 
+
+    -> Consumables Consists Of 
+
+        -> Cables 
+
+        -> Adapters 
+
+        -> Earphones
+
+        -> Mouses & Keyboards 
+
+        -> etc 
+
+    -> NOTE: Consumables Should Be Tracked, When they are Purchased and 
+    Kept In Storage. This Ensures That Asset Managers Have Visibility Of 
+    Overall Stock. 
+
+
+    -> Manufacturers & Vendors 
+
+        -> Manufacturer 
+
+            -> A Company That Creates Products To Sell 
+
+            -> A Company Like Dell or Cisco (Laptops or Routers)
+
+            -> NOTE: It's Important To Track The Hardware Asset Manufacturer
+            So that you can easily run Reports or Search Assets By Manufacturers.
+
+        
+        -> Vendors 
+
+            -> A Vendor Can Be Company Or An Individual, that you do 
+            Business With, To Procure Goods and Services From 
+
+            -> A Company Like Amazon or Sometimes An Individual 
+
+            -> NOTE: Sometimes A Vendor Can Also Be Manufacturer 
+
+        
+        -> NOTE: Manufacturers and Vendors In Service Now are Stored Together 
+        In Company Table, these are NOT SEPARATE Tables
+
+
+        -> NOTE: When We Create Company, By Default We Don't Have Options For 
+        Manufacturers & Vendors, To Get Manufacturers & Vendors Change View 
+        From Customer To Default View 
+
+        -> NOTE: To Confirm Use Of Manufacturer, Create An Hardware Model 
+        and See Manufacturer Belkin Updated.
+
+    
+    -> Locations 
+
+        -> A Location In Service Now Represents A Physical Location 
+        That Your Organization Owns Or Leases. 
+
+        -> Managing Locations is great for further filtering Based On 
+        Location Criteria 
+
+        -> NOTE: Without Locations, It's Hard To Understand 
+        What Location or Building or Room a particular asset is in.
+        
+        -> In Service Now, You Can Create Hierarchy 
+
+            Building -> Floors -> Rooms -> Rack  
+
+        
+    -> Stockrooms 
+
+        -> Stockrooms Are Designated Areas Where Assets Are Held For 
+        the Purpose Of Storage 
+
+        -> Stockrooms Allows Asset Managers To Securely Store Assets 
+        When They Are Not In Use. 
+
+        -> Benefits Of Stockrooms 
+
+            -> Single Collection Point For Asset Requests 
+
+            -> Safe & Secure Storage 
+
+            -> Monitor All Assets in Available 
+
+            -> Meet Regulatory and Security Compliances 
+
+            
 
 
 
