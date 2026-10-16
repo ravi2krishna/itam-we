@@ -477,6 +477,69 @@ Class - 3
             -> Meet Regulatory and Security Compliances 
 
             
+Class - 4
+==========
+
+    -> Asset Depreciation 
+
+        -> Asset Depreciation is the Process Followed By Organizations
+        To Allocate The Cost of An Asset Over The Duration Of It's Useful Life.
+
+        -> This Process Helps Accounting & Finance Teams 
+
+        -> To Calculate Depreciation Of An Asset, We Need Following Information 
+
+            -> Useful Life: This is the amount of time (years) the asset is 
+            Typically used for, for an example a laptop is Typically 
+            useful for 5 years 
+
+            -> Total Price: The Total Amount Which The Organization Pays For The Asset 
+
+            -> Purchase Date: Date The Asset Was Procured From The Vendor 
+
+            -> Depreciation Method: Formula Used For Calculating The Depreciation
+
+            -> Salvage Value: Amount The Asset Will Be Worth, When it's Fully Depreciated 
+
+        
+        -> Depreciation Methods 
+
+            -> Straight Line (SL)
+
+            -> Double Declining Balance (DDB)
+
+
+        -> Straight Line (SL)
+
+            -> Straight Line (SL) is the Most Common Depreciation Method Used,
+            As the Cost of the Asset is Allocated Equally Over The Useful 
+            Life Of An Asset.
+
+            -> Taking An Laptop As Example, the Organization Purchased Laptop 
+            for $1000, and it will Depreciated over a useful life of 5 years
+            and it's Salvage Value is $50.
+
+            -> Calculating Yearly Depreciation Of This Laptop Using Straight Line(SL) 
+
+                -> Depreciated Amount = Subtract Salvage Value From Purchased Value 
+                Then Divide By Useful Life In Years 
+
+
+        -> Double Declining Balance (DDB)
+
+            -> NOTE: In Double Declining Balance Method, The Assets Lose 
+            Most Of Their Values In Their First Years.
+
+            -> NOTE: Taking Mobile Phones As Example, they Typically Lose
+            their Value about 30-40% in the first year itself.
+
+            -> Calculating Depreciation Using Double Declining Balance 
+
+                -> Depreciated Amount = 100% Of Asset Value / 5 Times 2 
+
+            -> Taking An Laptop As Example, the Organization Purchased Laptop 
+            for $1000, and it will Depreciated over a useful life of 5 years
+            and it's Salvage Value is $50.
 
 
 
